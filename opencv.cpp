@@ -570,7 +570,7 @@ int main()
     task1();
     task2(); 
     task3();
-  //  l.task4();
+    l.task4();
 
 }
 
