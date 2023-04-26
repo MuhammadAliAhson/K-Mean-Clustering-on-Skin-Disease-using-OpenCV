@@ -567,7 +567,7 @@ int main()
         Assignment 01 Data Structures*/
 
     linklist l;
-  //task1();
+    task1();
    //task2(); 
     task3();
   //  l.task4();
