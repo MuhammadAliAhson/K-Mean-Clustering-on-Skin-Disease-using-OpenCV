@@ -568,7 +568,7 @@ int main()
 
     linklist l;
     task1();
-   //task2(); 
+    task2(); 
     task3();
   //  l.task4();
 
