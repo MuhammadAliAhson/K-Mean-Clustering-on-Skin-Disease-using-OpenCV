@@ -1,5 +1,6 @@
 # OpenCV_K-Mean_Clustering_CPP
 Hey Folks!  I have made an "OpenCV" K-mean clustering program in which you can eliminate the non-populated (less or not absolute neighbors) and can convert the colored image into Grey Scale (black and white). It is used in the medical field to analyze infected skin. 
+install.packages("bmp")
 
 # README
 
